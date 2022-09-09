@@ -35,3 +35,17 @@
  ```
  
 
+ ------
+ 
+ ***Education:***
+ 
+ * Secondary education
+ * Belarusian National Technical University (in process)
+ 
+ ----
+ 
+ ***Languange***
+ * English : A2
+ * Polish : B1
+
+---
