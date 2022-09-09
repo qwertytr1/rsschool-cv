@@ -29,8 +29,9 @@
  
  ***Code:***
  ```
- function numberToString(num) {
-  return String(num);
+module.exports = function reverse (n) {
+  let a = Math.abs(n)+"";
+  return a.split("").reverse().join("");
 }
  ```
  
